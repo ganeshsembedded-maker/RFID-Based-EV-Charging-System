@@ -25,7 +25,7 @@ The charging process is automated using a relay mechanism, and user authenticati
 ## 📘 Project Report
 The complete project documentation including objectives, circuit details, working principle, components, results, and future scope is available below:
 
-👉 **[Click here to view the Project Report](report/RFID_Project_Report.pdf)**
+👉 **[Click here to view the Project Report](Report)**
 
 ---
 
