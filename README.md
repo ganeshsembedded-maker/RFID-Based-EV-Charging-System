@@ -13,12 +13,12 @@ The charging process is automated using a relay mechanism, and user authenticati
 ---
 
 ## 🧩 Block Diagram
-![Block Diagram](diagrams/block_diagram.png)
+![Block Diagram](diagrams)
 
 ---
 
 ## 🔄 Flow Chart
-![Flow Chart](diagrams/flow_chart.png)
+![Flow Chart](diagrams)
 
 ---
 
