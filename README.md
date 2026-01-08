@@ -13,26 +13,33 @@ The charging process is automated using a relay mechanism, and user authenticati
 ---
 
 ## 🧩 Block Diagram
-![Block Diagram](diagrams)
+![Block Diagram](diagrams/block_diagram.png)
 
 ---
 
 ## 🔄 Flow Chart
-![Flow Chart](diagrams)
+![Flow Chart](diagrams/flow_chart.png)
 
 ---
 
 ## 📘 Project Report
 The complete project documentation including objectives, circuit details, working principle, components, results, and future scope is available below:
 
-👉 **[Click here to view the Project Report](Report)**
+📥 **[Download Project Report (PDF)](report/RFID_REPORT.pdf)**  
+⚠️ *GitHub may not preview this PDF correctly. Please download to view.*
 
 ---
 
-## 📂 Files in this Repository
-- `code/` — Arduino source code  
-- `diagrams/` — Block Diagram and Flow Chart images  
-- `report/` — Complete project report (PDF)  
+## 📂 Repository Structure
+RFID-Based-EV-Charging-System/
+│
+├── code/
+├── diagrams/
+│ ├── block_diagram.png
+│ └── flow_chart.png
+├── report/
+│ └── RFID_REPORT.pdf
+└── README.md
 
 ---
 
