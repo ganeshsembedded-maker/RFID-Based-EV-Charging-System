@@ -26,13 +26,13 @@ This project reflects a **real-world EV charging use case** with a focus on secu
 
 ## 🧩 Block Diagram
 
-![Block Diagram](diagrams/block_diagram.png)
+![Block Diagram](diagrams)
 
 ---
 
 ## 🔄 Flow Chart
 
-![Flow Chart](diagrams/flow_chart.png)
+![Flow Chart](diagrams)
 
 ---
 
